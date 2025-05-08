@@ -4,6 +4,11 @@ This project focuses on analyzing Walmart sales data, including data fetching, p
 ## Tools used
 - Pandas
 - Power BI (Power Query, Data Visualization)
+## Tasks Performed
+- The data was fetched from a CSV file hosted on GitHub. The data was read directly into a Pandas DataFrame using Python.
+- Detected mixed date formats (dd-mm-yyyy and dd/mm/yyyy), Created a parsing function to handle both formats,Applied to Order Date and Ship Date columns, Formatted dates consistently as dd-mm-yyyy
+- Save Processed CSV Locally
+
 ## Simple Walmart Sales Dashboard 
 1. Import Your Processed Data
    - Open Power BI Desktop

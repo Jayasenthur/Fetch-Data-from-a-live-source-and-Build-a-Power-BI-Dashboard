@@ -34,3 +34,5 @@ This project focuses on analyzing Walmart sales data, including data fetching, p
    - Click the "Pie chart" icon
    - Legend: `Category`
    - Values: `Profit`
+
+![Dashboard](https://github.com/Jayasenthur/Fetch-Data-from-a-live-source-and-Build-a-Power-BI-Dashboard/blob/main/SimpleDashboard.png)

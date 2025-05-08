@@ -10,7 +10,7 @@ This project focuses on analyzing Walmart sales data, including data fetching, p
 - Save Processed CSV Locally
 
 ## Simple Walmart Sales Dashboard 
-1. Import Your Processed Data
+## 1. Import Your Processed Data
    - Open Power BI Desktop
    - Click "Get Data" → "Text/CSV" → Select your `"Walmart_processed.csv"`
    - Click "Load"
